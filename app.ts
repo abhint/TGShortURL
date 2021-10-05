@@ -3,8 +3,8 @@ import { commands } from "./app/commands";
 import { onShort } from "./app/plugins";
 
 (async () => {
-  await onShort();
   await commands();
+  await onShort();
   await bot
     .launch()
     .then(() => console.log("Hello, World!"))
