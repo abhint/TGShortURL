@@ -1,0 +1,23 @@
+{
+  "name": "tgshorturl",
+  "version": "0.0.1",
+  "description": "404",
+  "main": "app.js",
+  "scripts": {
+    "test": "nodemon app.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AbhijithNT/TGShortURL.git"
+  },
+  "keywords": [
+    "telegram",
+    "bot"
+  ],
+  "author": "Abhijith N T",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/AbhijithNT/TGShortURL/issues"
+  },
+  "homepage": "https://github.com/AbhijithNT/TGShortURL#readme"
+}
