@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/AbhijithNT/TGShortURL.git"
+    "url": "git+https://github.com/abhint/TGShortURL.git"
   },
   "keywords": [
     "telegram",
@@ -17,9 +17,9 @@
   "author": "Abhijith N T",
   "license": "GPL-3.0",
   "bugs": {
-    "url": "https://github.com/AbhijithNT/TGShortURL/issues"
+    "url": "https://github.com/abhint/TGShortURL/issues"
   },
-  "homepage": "https://github.com/AbhijithNT/TGShortURL#readme",
+  "homepage": "https://github.com/abhint/TGShortURL#readme",
   "devDependencies": {
     "@types/node": "^16.10.2",
     "nodemon": "^2.0.13",
